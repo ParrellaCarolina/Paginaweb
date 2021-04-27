@@ -1,0 +1,28 @@
+header{
+	text-align: justify;
+	font-family: Georgia , sans-serif;
+}
+
+footer{
+	background-color: #F9E797;
+	color: black;
+	text-align: center;
+    font-family: Georgia , sans-serif;
+}
+
+body{
+	background-color:#FCF3CF;
+}
+
+h4{
+    font-family:Georgia , sans-serif;
+    font-size: 1.2em;
+}
+
+p{
+    text-align: center;
+    font-family:Georgia, sans-serif;
+    font-size: 1.2em;
+}
+
+

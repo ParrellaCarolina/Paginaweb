@@ -1,0 +1,57 @@
+header{
+	text-align: justify;
+	font-family: Georgia , sans-serif;
+}
+
+footer{
+	background-color: #F9E797;
+	color:black;
+	text-align: center;
+    font-family: Georgia , sans-serif;
+}
+
+body{
+	background-color:#FCF3CF;
+}
+
+.input, select{
+    width : 400px;
+    margin: 2px;
+  }
+
+p{
+    text-align: center;
+    font-family:Georgia, sans-serif;
+    font-size: 1.2em;
+}
+
+
+.cabecera{
+    text-align: center;
+    font-family: Georgia, sans-serif;
+}
+
+table{ 
+    display: table;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border-color: rgb(32, 17, 17);
+  }
+
+li{
+    font-size: 1.2em;
+}
+
+h4{
+    font-family: Georgia, sans-serif;
+    font-size: 1.2em;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+
+table tr th{
+    font-family: 'Segoe UI', Georgia, Geneva, Verdana, sans-serif;
+}
